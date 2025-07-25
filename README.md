@@ -43,4 +43,4 @@ Use with
 
 Use as it is at own risk
 
-Source can be found on GitHub at https://github.com/giftkugel/archlinux-config
+Sources can be found on GitHub at [https://github.com/giftkugel/archlinux-config](https://github.com/giftkugel/archlinux-config)
