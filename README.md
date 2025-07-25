@@ -25,6 +25,8 @@ Use with
 
 ## Additional bootstrapping
 
+Script file [bootstrap.sh](./bootstrap.sh)
+
 - Create `bootstrap` user which can use `sudo`
 - Install packages necessary for Ansible
   - `python3`
