@@ -42,3 +42,5 @@ Use with
 ## Disclaimer
 
 Use as it is at own risk
+
+Source can be found on GitHub at https://github.com/giftkugel/archlinux-config
