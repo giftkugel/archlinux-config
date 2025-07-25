@@ -8,7 +8,7 @@ Config file [server.json](./server.json)
 
 - German keyboard layout
 - German locale with UTF-8
-- `Europe/Berlin` timeone
+- `Europe/Berlin` timezone
 - Arch Linux mirrors from Germany, Poland and the Netherlands
 - Swap disabled
 - Additional `linux-lts` kernel
