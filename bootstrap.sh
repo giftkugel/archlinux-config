@@ -52,7 +52,12 @@ chmod u+x unboostrap.sh
 echo "Finished!"
 echo
 echo
+echo "######################################################################################################################################################"
 echo "Please set a password for the '$USER_NAME' user with 'passwd $USER_NAME'"
+echo
 echo "Make sure to delete the $USER_NAME user after bootstrapping with 'userdel -r $USER_NAME' and also remove the sudoers file /etc/sudoers.d/00_$USER_NAME"
+echo "######################################################################################################################################################"
+echo
+echo
 
 cd "$START_DIR"
